@@ -32,6 +32,9 @@ app.MapGet("/weatherforecast", () =>
     return forecast;
 })
 .WithName("GetWeatherForecast");
+ 
+ // New simple endpoint
+ app.MapGet("/hello", () => "Hello from your .NET API! This is a new endpoint.");
 
 app.Run();
 
