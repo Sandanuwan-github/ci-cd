@@ -36,6 +36,9 @@ app.MapGet("/weatherforecast", () =>
  // New simple endpoint
  app.MapGet("/hello", () => "Hello from your .NET API! This is a new endpoint.");
 
+ // New simple endpoint
+ app.MapGet("/world", () => "Hello World from your .NET API! This is a new endpoint.");
+ 
 app.Run();
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
