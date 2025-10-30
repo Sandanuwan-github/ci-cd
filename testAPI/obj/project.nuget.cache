@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ARzY0HJCDo0=",
+  "success": true,
+  "projectFilePath": "/Users/sandanuwandharmarathna/Desktop/Code/ci-cd/testAPI/testAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/sandanuwandharmarathna/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/sandanuwandharmarathna/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
