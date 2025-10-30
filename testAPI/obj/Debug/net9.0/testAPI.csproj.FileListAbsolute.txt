@@ -31,3 +31,4 @@
 /Users/sandanuwandharmarathna/Desktop/Code/ci-cd/testAPI/obj/Debug/net9.0/testAPI.pdb
 /Users/sandanuwandharmarathna/Desktop/Code/ci-cd/testAPI/obj/Debug/net9.0/testAPI.genruntimeconfig.cache
 /Users/sandanuwandharmarathna/Desktop/Code/ci-cd/testAPI/obj/Debug/net9.0/ref/testAPI.dll
+/Users/sandanuwandharmarathna/Desktop/Code/ci-cd/testAPI/obj/Debug/net9.0/testAPI.sourcelink.json
